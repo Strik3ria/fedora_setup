@@ -4,7 +4,6 @@
 
 ### Setup
 ```shell
-sudo apt-get install cmake
 make setup
 ```
 
